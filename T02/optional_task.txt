@@ -1,0 +1,48 @@
+# Optional Task 
+- Write pseudocode for an algorithm that asks the user for a number and stores that number in a variable called n.
+  Then the algorithm calculates and prints out the first n numbers in the fibonacci sequence
+
+## Pseolution
+
+//function
+
+Function fibonacci
+	
+	Pass in: n, first, second
+
+	// variable declaration
+	create variable count
+	create variable third assigned to first + second
+
+	// Processing
+	
+	while count is less than n:
+		print first
+		print second
+		print third
+		
+		first = second 
+		second = third
+		third = first + second
+		count increases by one 
+		
+
+
+Endfunction
+
+
+// variable declaration
+
+create variable n assign it to user input requesting for a number
+
+create variable first and assign it 0
+
+create variable second and assing it 1
+
+// Processing
+
+type cast n into an int
+
+pass n first and second into fibonacci function
+
+

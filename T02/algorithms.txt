@@ -1,0 +1,46 @@
+# Compulsory Task
+
+## Task 1
+- An algorithm that requests a user to input their name and then stores their name in a variable called *first_name*. Subsequently, the algorithm should print out *first_name* with the phrase "Hello, World".
+
+### Pseolution
+
+create string variable greeting and assign the string "Hello, World"
+
+assign string variable first_name to input request for users name
+
+output variable first name along with the variable greeting using string formatting to look presentable.
+
+--------------------------------------------------------------------------------------------------------
+
+## Task 2
+- An algorithm that asks a user to enther their age and then stores their age in a variable called age. Subsequently, the algorithm should print out. "You're old enough" if the user's age is over or equal to 18,
+or print out "Almost there" if the age is equal to or over 16, but less than 18. Finally, the algorithm should print out "You're just too young" if the user is younger than (and not equal to) 16.
+
+### Pseolution
+
+//variable declarations
+
+create string variable old and assign it the string "You're old enough"
+
+create string variable middle and assign it the string "Almost there"
+
+create string variable young and assign it the string "You're just too young"
+
+create string variable age assigning it to the user input of asking for their age
+
+type cast age into a int to ensure that it can be processed
+
+
+// processings
+
+if age is greater than or equal to 18:
+	
+	print old
+
+elseif age is less than 18 but greater than or equal to 16:
+	
+	print middle
+
+else print young
+

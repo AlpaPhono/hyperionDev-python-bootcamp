@@ -1,0 +1,7 @@
+# Optional Problem
+- An algorithm that asks the user to enter four numbers, sorts those numbers from smallest to largest and then prints the sorted numbers
+
+##Pseolution
+get four numbers to put in a list
+sorted function on list
+print list

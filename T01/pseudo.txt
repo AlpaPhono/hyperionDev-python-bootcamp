@@ -1,0 +1,52 @@
+# Problem 1
+- An algorithm that asks a user to enter a positive number repeatedly unti the user enters a zero value, then determines and outputs the largest of the numbers that were input
+
+## Pseolution
+make empty list called numbers 
+
+make variable called number equal to none
+
+while number is not 0:
+	get number
+	append number to list called numbers.
+
+When loop ends print largest number in the list 
+
+----------------------------------------------------------------------------------------
+# Problem 2
+- An algorthim that reads an arbitary number of integers and then returns their arithmetic average
+
+## Pseolution
+put arbitary number of integers in a list
+
+calculate the sum of the integers in the list
+
+divde the sum of the list by the length of the list
+
+----------------------------------------------------------------------------------------
+# Problem 3
+- An algorithm that reads a grocery list and prints out the products inn alphabetical order that are still left to buy
+
+##Pseolution
+put "grocery list" in a list
+
+check if item in list is bought
+	if bought pop from list 
+
+sort remaining items in list by alphabetical order
+
+print out list 
+
+# Probem 4
+- An algorithm of the flowchart
+
+##Pseolution
+
+populate variables for x and y
+
+variable s = x + y
+variable A = s / 2
+variable P = x * y
+
+print the values of s, a and p
+

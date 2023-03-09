@@ -1,0 +1,7 @@
+ Task Overview Report:
+    Number of tasks tracked:            3
+    Total number of completed tasks:    0
+    Total number of uncompleted tasks   3
+    Total number of overdue tasks:      0
+    Percentage incomplete:              100.0%
+    Percentage of tasks overdue:        0.0%
